@@ -1,1 +1,2 @@
-# TM-RaPA
+# 《TM-RAPA: TARGET MARGIN AWARE RANDOM PARAMETER PRUNING ATTACK》   ICASSP 2027
+## The code will be released soon.
